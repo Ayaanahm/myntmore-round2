@@ -1,5 +1,5 @@
 # Myntmore: Systems & AI Automation Intern, Round 2
-
+Live Hook Grader: https://myntmore-hook-grader.vercel.app
 | Task | Where |
 |---|---|
 | 01 Lead Follow-Up Engine | `supabase/` (schema + rules engine), `automation/` (n8n workflow, Make build sheet, Gemini prompts) |
